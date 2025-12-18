@@ -32,6 +32,17 @@ PROCESS
    - Donut Chart: Proportional breakdown of vehicle types.
    - Slicers: Region
 
+**i. Create relationship**
+<img width="1466" height="784" alt="image" src="https://github.com/user-attachments/assets/2eaa6479-ad89-4450-8aa0-76e166d69ed0" />
+
+**ii. Dashboard for Overview**
+<img width="1415" height="798" alt="image" src="https://github.com/user-attachments/assets/83f814fe-1380-449c-8350-bbc467f1f2a8" />
+
+**iii. Dashboard for Operating Hours**
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/46f6dad7-9837-4716-aa14-3bc32da9cd41" />
+
+**iV. Dashboard for Location Detail**
+<img width="1411" height="798" alt="image" src="https://github.com/user-attachments/assets/211ebef7-93b6-463e-9bb4-3c7d53a8e673" />
 
 
 
