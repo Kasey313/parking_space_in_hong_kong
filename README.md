@@ -18,7 +18,7 @@ Fields Used: Region/ District/ Location / Types of Operating Hours/ Parking spac
    - Trimmed and standardized text fields (Region, District, Location)
    - Created a lookup table for Operating Hours codes with full descriptions.
 3. Data Modeling
-   - Built a star schema
+   - Built a schema
    - Established relationships between tables. (Raw data and operating hour description)
 4. DAX Measures
    - Total Spaces = SUM('Region (dataset)'[Private Cars Spaces]) +SUM('Region (dataset)'[Goods Vehicle Spaces]) +SUM('Region (dataset)'[Coach Spaces])
@@ -31,6 +31,15 @@ Fields Used: Region/ District/ Location / Types of Operating Hours/ Parking spac
    - Bar Chart: District comparison by vehicle type.
    - Donut Chart: Proportional breakdown of vehicle types.
    - Slicers: Region
+  
+**SKILLS DEMONSTRATED**
+- Data cleaning and transformation
+- Data modeling with relationships
+- DAX measures for KPIs
+- Geographic mapping
+- Interactive dashboard design
+- Storytelling with data
+
 
 **i. Create relationship**
 <img width="1466" height="784" alt="image" src="https://github.com/user-attachments/assets/2eaa6479-ad89-4450-8aa0-76e166d69ed0" />
